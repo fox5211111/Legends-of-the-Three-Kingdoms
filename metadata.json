@@ -1,0 +1,7 @@
+{
+  "name": "三国杀",
+  "description": "三国杀网页版全屏横屏游戏客户端",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
